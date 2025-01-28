@@ -1,0 +1,13 @@
+@test_HostAddress = http://localhost:5225
+
+GET {{test_HostAddress}}/weatherforecast/
+Accept: application/json
+###
+GET {{test_HostAddress}}/api/todoitems/
+Accept: application/json
+
+###
+
+GET {{test_HostAddress}}/index.html
+Accept: application/json
+

@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "RQ3P82i9poYQLkVBqBbrMCxPWPOEukHhKR8uMGlZwV4=",
+  "Source": "test",
+  "BasePath": "_content/test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "test\\wwwroot",
+      "Source": "test",
+      "ContentRoot": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\",
+      "BasePath": "_content/test",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\azy5lnut5j-rftmiyfz56.gz",
+      "SourceId": "test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/test",
+      "RelativePath": "index#[.{fingerprint=rftmiyfz56}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z82und025k",
+      "Integrity": "HU6RPkk++0DeVgxUbQ1Hqg6EVdPk6CKFUL1Hd0rGJfo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\bs3rsdrvpa-nk2kzih5p2.gz",
+      "SourceId": "test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/test",
+      "RelativePath": "styles/styles#[.{fingerprint=nk2kzih5p2}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\styles\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "oift3fur2d",
+      "Integrity": "MO3jvXVxy6z25d8u7yw12iMhWv24bmvusIZuFPshA9s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\styles\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\gvgv99lofo-2wzmasoy1n.gz",
+      "SourceId": "test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/test",
+      "RelativePath": "js/site#[.{fingerprint=2wzmasoy1n}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\js\\site.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "idv5h0gx16",
+      "Integrity": "6uBnbSBRL1S/B+Lqx5jA0frXCZeZAcawxnwn6GNoTnA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\index.html",
+      "SourceId": "test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\",
+      "BasePath": "_content/test",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rftmiyfz56",
+      "Integrity": "hwhp0p9ByDkq6ffw1GZ3K1UNC64sqxzPpdcxIGe0TJo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\js\\site.js",
+      "SourceId": "test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\",
+      "BasePath": "_content/test",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2wzmasoy1n",
+      "Integrity": "MpmFVFj8J8UpNkqqI1YuD75JglbL3najo2n/ug0VOGw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\styles\\styles.css",
+      "SourceId": "test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\",
+      "BasePath": "_content/test",
+      "RelativePath": "styles/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nk2kzih5p2",
+      "Integrity": "ByU3LYX7+wM/HOR9QGfiyo0MEQ0rNqgl7prnEgXtwlk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\azy5lnut5j-rftmiyfz56.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002785515320"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "358"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HU6RPkk++0DeVgxUbQ1Hqg6EVdPk6CKFUL1Hd0rGJfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 10:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hwhp0p9ByDkq6ffw1GZ3K1UNC64sqxzPpdcxIGe0TJo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwhp0p9ByDkq6ffw1GZ3K1UNC64sqxzPpdcxIGe0TJo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwhp0p9ByDkq6ffw1GZ3K1UNC64sqxzPpdcxIGe0TJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 10:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwhp0p9ByDkq6ffw1GZ3K1UNC64sqxzPpdcxIGe0TJo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\azy5lnut5j-rftmiyfz56.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HU6RPkk++0DeVgxUbQ1Hqg6EVdPk6CKFUL1Hd0rGJfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 10:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HU6RPkk++0DeVgxUbQ1Hqg6EVdPk6CKFUL1Hd0rGJfo="
+        }
+      ]
+    },
+    {
+      "Route": "index.rftmiyfz56.html",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\azy5lnut5j-rftmiyfz56.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002785515320"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "358"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HU6RPkk++0DeVgxUbQ1Hqg6EVdPk6CKFUL1Hd0rGJfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 10:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hwhp0p9ByDkq6ffw1GZ3K1UNC64sqxzPpdcxIGe0TJo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rftmiyfz56"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwhp0p9ByDkq6ffw1GZ3K1UNC64sqxzPpdcxIGe0TJo="
+        }
+      ]
+    },
+    {
+      "Route": "index.rftmiyfz56.html",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hwhp0p9ByDkq6ffw1GZ3K1UNC64sqxzPpdcxIGe0TJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 10:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rftmiyfz56"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hwhp0p9ByDkq6ffw1GZ3K1UNC64sqxzPpdcxIGe0TJo="
+        }
+      ]
+    },
+    {
+      "Route": "index.rftmiyfz56.html.gz",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\azy5lnut5j-rftmiyfz56.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HU6RPkk++0DeVgxUbQ1Hqg6EVdPk6CKFUL1Hd0rGJfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 10:41:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rftmiyfz56"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HU6RPkk++0DeVgxUbQ1Hqg6EVdPk6CKFUL1Hd0rGJfo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.2wzmasoy1n.js",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\gvgv99lofo-2wzmasoy1n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001063829787"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6uBnbSBRL1S/B+Lqx5jA0frXCZeZAcawxnwn6GNoTnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:19:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MpmFVFj8J8UpNkqqI1YuD75JglbL3najo2n/ug0VOGw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2wzmasoy1n"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MpmFVFj8J8UpNkqqI1YuD75JglbL3najo2n/ug0VOGw="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.2wzmasoy1n.js",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MpmFVFj8J8UpNkqqI1YuD75JglbL3najo2n/ug0VOGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:19:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2wzmasoy1n"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MpmFVFj8J8UpNkqqI1YuD75JglbL3najo2n/ug0VOGw="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.2wzmasoy1n.js.gz",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\gvgv99lofo-2wzmasoy1n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6uBnbSBRL1S/B+Lqx5jA0frXCZeZAcawxnwn6GNoTnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:19:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2wzmasoy1n"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6uBnbSBRL1S/B+Lqx5jA0frXCZeZAcawxnwn6GNoTnA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\gvgv99lofo-2wzmasoy1n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001063829787"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6uBnbSBRL1S/B+Lqx5jA0frXCZeZAcawxnwn6GNoTnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:19:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MpmFVFj8J8UpNkqqI1YuD75JglbL3najo2n/ug0VOGw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MpmFVFj8J8UpNkqqI1YuD75JglbL3najo2n/ug0VOGw="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MpmFVFj8J8UpNkqqI1YuD75JglbL3najo2n/ug0VOGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:19:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MpmFVFj8J8UpNkqqI1YuD75JglbL3najo2n/ug0VOGw="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\gvgv99lofo-2wzmasoy1n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6uBnbSBRL1S/B+Lqx5jA0frXCZeZAcawxnwn6GNoTnA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:19:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6uBnbSBRL1S/B+Lqx5jA0frXCZeZAcawxnwn6GNoTnA="
+        }
+      ]
+    },
+    {
+      "Route": "styles/styles.css",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\bs3rsdrvpa-nk2kzih5p2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002304147465"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MO3jvXVxy6z25d8u7yw12iMhWv24bmvusIZuFPshA9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ByU3LYX7+wM/HOR9QGfiyo0MEQ0rNqgl7prnEgXtwlk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ByU3LYX7+wM/HOR9QGfiyo0MEQ0rNqgl7prnEgXtwlk="
+        }
+      ]
+    },
+    {
+      "Route": "styles/styles.css",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\styles\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ByU3LYX7+wM/HOR9QGfiyo0MEQ0rNqgl7prnEgXtwlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ByU3LYX7+wM/HOR9QGfiyo0MEQ0rNqgl7prnEgXtwlk="
+        }
+      ]
+    },
+    {
+      "Route": "styles/styles.css.gz",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\bs3rsdrvpa-nk2kzih5p2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MO3jvXVxy6z25d8u7yw12iMhWv24bmvusIZuFPshA9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MO3jvXVxy6z25d8u7yw12iMhWv24bmvusIZuFPshA9s="
+        }
+      ]
+    },
+    {
+      "Route": "styles/styles.nk2kzih5p2.css",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\bs3rsdrvpa-nk2kzih5p2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002304147465"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MO3jvXVxy6z25d8u7yw12iMhWv24bmvusIZuFPshA9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ByU3LYX7+wM/HOR9QGfiyo0MEQ0rNqgl7prnEgXtwlk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nk2kzih5p2"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ByU3LYX7+wM/HOR9QGfiyo0MEQ0rNqgl7prnEgXtwlk="
+        }
+      ]
+    },
+    {
+      "Route": "styles/styles.nk2kzih5p2.css",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\styles\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ByU3LYX7+wM/HOR9QGfiyo0MEQ0rNqgl7prnEgXtwlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nk2kzih5p2"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ByU3LYX7+wM/HOR9QGfiyo0MEQ0rNqgl7prnEgXtwlk="
+        }
+      ]
+    },
+    {
+      "Route": "styles/styles.nk2kzih5p2.css.gz",
+      "AssetFile": "C:\\Users\\saifa\\source\\repos\\test\\test\\obj\\Debug\\net9.0\\compressed\\bs3rsdrvpa-nk2kzih5p2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MO3jvXVxy6z25d8u7yw12iMhWv24bmvusIZuFPshA9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nk2kzih5p2"
+        },
+        {
+          "Name": "label",
+          "Value": "styles/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MO3jvXVxy6z25d8u7yw12iMhWv24bmvusIZuFPshA9s="
+        }
+      ]
+    }
+  ]
+}

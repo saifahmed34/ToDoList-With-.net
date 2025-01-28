@@ -1,0 +1,46 @@
+﻿body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    margin: 0;
+    background-color: #f0f0f0; /* Optional: Add a background color */
+    font-family: sans-serif; /* Optional: Set a font */
+}
+
+h1 {
+    margin: 12px;
+    height: 60px
+}
+
+/* Style the container */
+.todo-container {
+    text-align: center;
+    border: 3px solid green;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white; /* Optional: Add a white background */
+}
+
+/* Style the input and button */
+#todo-title {
+    width: 70%;
+    padding: 10px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+}
+
+button {
+    padding: 12px 15px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 13px;
+    cursor: pointer;
+    margin-right: 77px;
+}
+
+    button:hover {
+        background-color: red;
+    }

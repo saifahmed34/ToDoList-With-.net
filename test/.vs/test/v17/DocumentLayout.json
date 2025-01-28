@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saifa\\source\\repos\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|c:\\users\\saifa\\source\\repos\\test\\test\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|solutionrelative:test\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|c:\\users\\saifa\\source\\repos\\test\\test\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|solutionrelative:test\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|c:\\users\\saifa\\source\\repos\\test\\test\\wwwroot\\styles\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|solutionrelative:test\\wwwroot\\styles\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|c:\\users\\saifa\\source\\repos\\test\\test\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|solutionrelative:test\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|c:\\users\\saifa\\source\\repos\\test\\test\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|solutionrelative:test\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|c:\\users\\saifa\\source\\repos\\test\\test\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|solutionrelative:test\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|c:\\users\\saifa\\source\\repos\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E34709-FBFB-4F75-8B47-A7C9C112C166}|test\\todoList.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "test\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "test\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-28T10:22:11.834Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\test\\test\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "test\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\test\\test\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "test\\Controllers\\TodoItemsController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswCAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:57:02.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\styles\\styles.css",
+              "RelativeDocumentMoniker": "test\\wwwroot\\styles\\styles.css",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\styles\\styles.css",
+              "RelativeToolTip": "test\\wwwroot\\styles\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-28T14:54:56.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\test\\test\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "test\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\test\\test\\Models\\TodoItem.cs",
+              "RelativeToolTip": "test\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:22:21.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "test\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\test\\test\\wwwroot\\index.html",
+              "RelativeToolTip": "test\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-27T20:17:35.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "test.http",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\test\\test\\test.http",
+              "RelativeDocumentMoniker": "test\\test.http",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\test\\test\\test.http",
+              "RelativeToolTip": "test\\test.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-27T17:01:40.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\test\\test\\Program.cs",
+              "RelativeDocumentMoniker": "test\\Program.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\test\\test\\Program.cs",
+              "RelativeToolTip": "test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:30:30.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
