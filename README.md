@@ -19,7 +19,7 @@
     <ul>
         <li>Visual Studio or a compatible code editor.</li>
         <li>.NET Core SDK installed on your machine.</li>
-        <li>A relational database (SQL Server, SQLite, etc.) for data storage.</li>
+        <li>A relational database (MySQL) for data storage.</li>
     </ul>
     <h2 id="getting-started">Getting Started</h2>
     <p>To get this project up and running, follow these steps:</p>
